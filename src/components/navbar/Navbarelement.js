@@ -10,7 +10,7 @@ export const Nav = styled.nav`
   font-weight: 700; 
   
   a.cart {
-    transform: translate(-150%, 100%);
+    transform: translate(-100%, 100%);
     font-weight: bold;
     text-align: flex-end;
     display: block;

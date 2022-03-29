@@ -7,10 +7,10 @@ const Navbar = ({toggle}) => {
         <Nav>
             <NavLink to='/'>Game Bros</NavLink>
             <NavIcon onClick={toggle}>
-                <p class='menu'>Menu</p>
+                <p className='menu'>Menu</p>
                 <Bars />
             </NavIcon>
-                <a class='cart' href="https://google.com">Cart</a>            
+                <a className='cart'>Cart</a>            
               
             
         </Nav>

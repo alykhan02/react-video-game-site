@@ -4,9 +4,9 @@ import product3 from '../../images/product-3.jpg';
 import sweet1 from '../../images/sweet3.jpg';
 import sweet2 from '../../images/sweet-2.jpg';
 import sweet3 from '../../images/sweet-3.jpg';
-import ps_controller from '../../images/ps_controller.jpg'
-import xbox_controller from '../../images/xbox_controller.jpg'
-import headphones from '../../images/headphones.jpg'
+import ps_controller from '../../images/ps_controller.jpg';
+import xbox_controller from '../../images/xbox_controller.jpg';
+import headphones from '../../images/headphones.jpg';
 
 export const productData = [
   {
